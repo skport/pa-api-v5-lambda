@@ -13,7 +13,7 @@ import Class_ExtractItem
 # エラー時のレスポンス
 def responseErrorBody():
     return {
-        'message': 'Failed',
+        'message': 'Fail',
         'statusCode': 200,
         'body': json.dumps("{'missing':'true'}") 
     }
