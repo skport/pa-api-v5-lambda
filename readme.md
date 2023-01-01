@@ -13,4 +13,4 @@ Choose Setting in github repository.
 |-|-|
 |AWS_REGION|The region hosting AWS Lambda|
 |AWS_ROLE_ARN|The role that granted lambda:UpdateFunctionCode policy|
-|AWS_LAMBDA_FUNCTION_ARN|The lambda function name to be deployed| 
+|AWS_LAMBDA_FUNCTION_ARN|The lambda function name to be deployed|
