@@ -9,6 +9,7 @@ import botocore.exceptions
 import Class_ManageCache
 import Class_AmzApi5
 import Class_ExtractItem
+import Class_SecretKey
 
 # エラー時のレスポンス
 def responseErrorBody():
