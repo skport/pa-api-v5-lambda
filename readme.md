@@ -3,7 +3,7 @@
 Retrieve Amazon Associate data using AWS Signature v5.
 The code is automatically deployed to an AWS Lambda Function.
 
-## Infrastructure
+## Infrastructure Architecture
 ![](./doc/infra.drawio.png)
 - AWS
   - Trigger : Client, API Gateway and so on.
